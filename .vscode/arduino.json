@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "avrisp",
-    "sketch": "SimonSays\\SimonSays.ino"
+    "sketch": "SimonSays\\SimonSays.ino",
+    "port": "COM4"
 }
