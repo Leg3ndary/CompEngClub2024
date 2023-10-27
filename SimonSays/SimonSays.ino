@@ -41,6 +41,7 @@ void setup() {
 
   pinMode(startButton, INPUT);
 
+  // We use an ungrounded pin that has random voltages to be as random as possible
   randomSeed(analogRead(a0));
 }
 
