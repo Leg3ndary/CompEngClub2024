@@ -1,4 +1,4 @@
-// This is some arduino code for a BoeBot
+// This is some arduino code for a BoeBot.
 // It uses an IR sensor to detect objects in front of it!
 
 // Importing the Servo library
